@@ -1,0 +1,5 @@
+NODE_ENV=development
+PORT=5000
+MONGO_URI=your_mongodb_atlas_connection_string_here
+JWT_SECRET=your_super_secret_jwt_key_change_in_production
+JWT_EXPIRE=30d
