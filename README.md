@@ -1,3 +1,7 @@
+
+My interrnid-CITS1866
+
+
 # ⚡ NexStore — Full-Stack MERN E-Commerce
 
 A production-quality e-commerce storefront built with MongoDB Atlas, Express.js, React.js, and Node.js.
